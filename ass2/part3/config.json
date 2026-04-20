@@ -1,0 +1,10 @@
+{
+    "server_ip": "10.0.0.100",
+    "port": 8887,
+    "num_clients": 10,
+    "c": 10,
+    "p": 0,
+    "k": 5,
+    "trials": 1,
+    "repeat": 5
+}

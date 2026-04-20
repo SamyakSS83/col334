@@ -1,0 +1,608 @@
+CLIENT normal_8 BATCH 1
+START 1757049009070
+REQ 0,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 5,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 10,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 15,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 20,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 25,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 30,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 35,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 40,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 45,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 50,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 55,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 60,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 65,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 70,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 75,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 80,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 85,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 90,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 95,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 100,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 105,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 110,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 115,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 120,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 125,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 130,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 135,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 140,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 145,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 150,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 155,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 160,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 165,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 170,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 175,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 180,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 185,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 190,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 195,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 200,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 205,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 210,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 215,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 220,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 225,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 230,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 235,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 240,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 245,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 250,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 255,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 260,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 265,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 270,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 275,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 280,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 285,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 290,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 295,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 300,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 305,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 310,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 315,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 320,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 325,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 330,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 335,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 340,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 345,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 350,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 355,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 360,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 365,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 370,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 375,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 380,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 385,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 390,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 395,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 400,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 405,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 410,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 415,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 420,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 425,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 430,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 435,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 440,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 445,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 450,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 455,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 460,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 465,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 470,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 475,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 480,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 485,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 490,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 495,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 500,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 505,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 510,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 515,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 520,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 525,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 530,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 535,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 540,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 545,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 550,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 555,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 560,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 565,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 570,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 575,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 580,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 585,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 590,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 595,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 600,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 605,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 610,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 615,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 620,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 625,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 630,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 635,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 640,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 645,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 650,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 655,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 660,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 665,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 670,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 675,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 680,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 685,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 690,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 695,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 700,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 705,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 710,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 715,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 720,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 725,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 730,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 735,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 740,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 745,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 750,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 755,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 760,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 765,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 770,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 775,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 780,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 785,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 790,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 795,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 800,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 805,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 810,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 815,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 820,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 825,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 830,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 835,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 840,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 845,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 850,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 855,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 860,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 865,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 870,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 875,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 880,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 885,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 890,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 895,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 900,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 905,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 910,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 915,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 920,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 925,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 930,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 935,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 940,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 945,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 950,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 955,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 960,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 965,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 970,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 975,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 980,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 985,5
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 990,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+REQ 995,5
+ RESP dog,ant,fox,cat,cow,EOF
+    BUF b''
+REQ 1000,5
+ RESP EOF
+    BUF b''
+END 1757049013201
+TOTAL_MS 4088
+WORDS 1000

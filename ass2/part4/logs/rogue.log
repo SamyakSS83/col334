@@ -1,0 +1,147 @@
+CLIENT rogue BATCH 20
+START 1757140793296
+REQ 0,5
+REQ 5,5
+REQ 10,5
+REQ 15,5
+REQ 20,5
+REQ 25,5
+REQ 30,5
+REQ 35,5
+REQ 40,5
+REQ 45,5
+REQ 50,5
+REQ 55,5
+REQ 60,5
+REQ 65,5
+REQ 70,5
+REQ 75,5
+REQ 80,5
+REQ 85,5
+REQ 90,5
+REQ 95,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 100,5
+REQ 105,5
+REQ 110,5
+REQ 115,5
+REQ 120,5
+REQ 125,5
+REQ 130,5
+REQ 135,5
+REQ 140,5
+REQ 145,5
+REQ 150,5
+REQ 155,5
+REQ 160,5
+REQ 165,5
+REQ 170,5
+REQ 175,5
+REQ 180,5
+REQ 185,5
+REQ 190,5
+REQ 195,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow,EOF
+    BUF b''
+REQ 200,5
+REQ 205,5
+REQ 210,5
+REQ 215,5
+REQ 220,5
+REQ 225,5
+REQ 230,5
+REQ 235,5
+REQ 240,5
+REQ 245,5
+REQ 250,5
+REQ 255,5
+REQ 260,5
+REQ 265,5
+REQ 270,5
+REQ 275,5
+REQ 280,5
+REQ 285,5
+REQ 290,5
+REQ 295,5
+ RESP EOF
+    BUF b''
+END 1757140794217
+TOTAL_MS 878
+WORDS 200

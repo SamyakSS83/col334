@@ -1,0 +1,627 @@
+CLIENT rogue BATCH 20
+START 1757049009074
+REQ 0,5
+REQ 5,5
+REQ 10,5
+REQ 15,5
+REQ 20,5
+REQ 25,5
+REQ 30,5
+REQ 35,5
+REQ 40,5
+REQ 45,5
+REQ 50,5
+REQ 55,5
+REQ 60,5
+REQ 65,5
+REQ 70,5
+REQ 75,5
+REQ 80,5
+REQ 85,5
+REQ 90,5
+REQ 95,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 100,5
+REQ 105,5
+REQ 110,5
+REQ 115,5
+REQ 120,5
+REQ 125,5
+REQ 130,5
+REQ 135,5
+REQ 140,5
+REQ 145,5
+REQ 150,5
+REQ 155,5
+REQ 160,5
+REQ 165,5
+REQ 170,5
+REQ 175,5
+REQ 180,5
+REQ 185,5
+REQ 190,5
+REQ 195,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 200,5
+REQ 205,5
+REQ 210,5
+REQ 215,5
+REQ 220,5
+REQ 225,5
+REQ 230,5
+REQ 235,5
+REQ 240,5
+REQ 245,5
+REQ 250,5
+REQ 255,5
+REQ 260,5
+REQ 265,5
+REQ 270,5
+REQ 275,5
+REQ 280,5
+REQ 285,5
+REQ 290,5
+REQ 295,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 300,5
+REQ 305,5
+REQ 310,5
+REQ 315,5
+REQ 320,5
+REQ 325,5
+REQ 330,5
+REQ 335,5
+REQ 340,5
+REQ 345,5
+REQ 350,5
+REQ 355,5
+REQ 360,5
+REQ 365,5
+REQ 370,5
+REQ 375,5
+REQ 380,5
+REQ 385,5
+REQ 390,5
+REQ 395,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 400,5
+REQ 405,5
+REQ 410,5
+REQ 415,5
+REQ 420,5
+REQ 425,5
+REQ 430,5
+REQ 435,5
+REQ 440,5
+REQ 445,5
+REQ 450,5
+REQ 455,5
+REQ 460,5
+REQ 465,5
+REQ 470,5
+REQ 475,5
+REQ 480,5
+REQ 485,5
+REQ 490,5
+REQ 495,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 500,5
+REQ 505,5
+REQ 510,5
+REQ 515,5
+REQ 520,5
+REQ 525,5
+REQ 530,5
+REQ 535,5
+REQ 540,5
+REQ 545,5
+REQ 550,5
+REQ 555,5
+REQ 560,5
+REQ 565,5
+REQ 570,5
+REQ 575,5
+REQ 580,5
+REQ 585,5
+REQ 590,5
+REQ 595,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 600,5
+REQ 605,5
+REQ 610,5
+REQ 615,5
+REQ 620,5
+REQ 625,5
+REQ 630,5
+REQ 635,5
+REQ 640,5
+REQ 645,5
+REQ 650,5
+REQ 655,5
+REQ 660,5
+REQ 665,5
+REQ 670,5
+REQ 675,5
+REQ 680,5
+REQ 685,5
+REQ 690,5
+REQ 695,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 700,5
+REQ 705,5
+REQ 710,5
+REQ 715,5
+REQ 720,5
+REQ 725,5
+REQ 730,5
+REQ 735,5
+REQ 740,5
+REQ 745,5
+REQ 750,5
+REQ 755,5
+REQ 760,5
+REQ 765,5
+REQ 770,5
+REQ 775,5
+REQ 780,5
+REQ 785,5
+REQ 790,5
+REQ 795,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 800,5
+REQ 805,5
+REQ 810,5
+REQ 815,5
+REQ 820,5
+REQ 825,5
+REQ 830,5
+REQ 835,5
+REQ 840,5
+REQ 845,5
+REQ 850,5
+REQ 855,5
+REQ 860,5
+REQ 865,5
+REQ 870,5
+REQ 875,5
+REQ 880,5
+REQ 885,5
+REQ 890,5
+REQ 895,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b''
+REQ 900,5
+REQ 905,5
+REQ 910,5
+REQ 915,5
+REQ 920,5
+REQ 925,5
+REQ 930,5
+REQ 935,5
+REQ 940,5
+REQ 945,5
+REQ 950,5
+REQ 955,5
+REQ 960,5
+REQ 965,5
+REQ 970,5
+REQ 975,5
+REQ 980,5
+REQ 985,5
+REQ 990,5
+REQ 995,5
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b''
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow,EOF\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow,EOF\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow,EOF\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow,EOF\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow,EOF\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow,EOF\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow,EOF\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow\ncat,dog,cat,emu,dog\ndog,ant,fox,cat,cow,EOF\n'
+ RESP dog,ant,fox,cat,cow
+    BUF b'cat,dog,cat,emu,dog\ndog,ant,fox,cat,cow,EOF\n'
+ RESP cat,dog,cat,emu,dog
+    BUF b'dog,ant,fox,cat,cow,EOF\n'
+ RESP dog,ant,fox,cat,cow,EOF
+    BUF b''
+REQ 1000,5
+REQ 1005,5
+REQ 1010,5
+REQ 1015,5
+REQ 1020,5
+REQ 1025,5
+REQ 1030,5
+REQ 1035,5
+REQ 1040,5
+REQ 1045,5
+REQ 1050,5
+REQ 1055,5
+REQ 1060,5
+REQ 1065,5
+REQ 1070,5
+REQ 1075,5
+REQ 1080,5
+REQ 1085,5
+REQ 1090,5
+REQ 1095,5
+ RESP EOF
+    BUF b''
+END 1757049009567
+TOTAL_MS 450
+WORDS 1000

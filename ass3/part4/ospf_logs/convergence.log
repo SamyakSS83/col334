@@ -1,0 +1,34 @@
+================================================================================
+OSPF CONVERGENCE LOG
+================================================================================
+
+TIMING EVENTS:
+  Link Failure at: t = 4.000s
+  Link Recovery at: t = 9.006s
+  Link Down Duration: 5.006s
+
+OSPF PACKET CAPTURES:
+  s1: ./ospf_logs/ospf_s1.pcap
+  s2: ./ospf_logs/ospf_s2.pcap
+
+To analyze OSPF LSAs:
+  tcpdump -r ./ospf_logs/ospf_s1.pcap -v
+  tshark -r ./ospf_logs/ospf_s1.pcap -Y "ospf.msg == 4" -T fields -e frame.time_relative -e ospf.msg
+  tcpdump -r ./ospf_logs/ospf_s2.pcap -v
+  tshark -r ./ospf_logs/ospf_s2.pcap -Y "ospf.msg == 4" -T fields -e frame.time_relative -e ospf.msg
+
+Look for OSPF LSA Update (type 4) messages around link failure/recovery times
+
+CONVERGENCE ANALYSIS:
+  Routing table stabilization (polling): 0.507s
+  iperf throughput recovery (90% baseline): 11.994s
+
+Final routing table dump:
+10.0.12.0/24 dev s1-eth1 proto kernel scope link src 10.0.12.1 
+10.0.13.0/24 dev s1-eth2 proto kernel scope link src 10.0.13.1 
+10.0.14.0/24 dev s1-eth3 proto kernel scope link src 10.0.14.1 
+10.0.23.0/24 nhid 28 via 10.0.13.2 dev s1-eth2 proto ospf metric 20 
+10.0.36.0/24 nhid 28 via 10.0.13.2 dev s1-eth2 proto ospf metric 20 
+10.0.45.0/24 nhid 16 via 10.0.14.2 dev s1-eth3 proto ospf metric 20 
+10.0.56.0/24 nhid 16 via 10.0.14.2 dev s1-eth3 proto ospf metric 20 
+10.0.67.0/24 nhid 28 via 10.0.13.2 dev s1-eth2 proto ospf metric 20 
